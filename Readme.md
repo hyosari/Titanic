@@ -6,25 +6,26 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 
 Source by: [Link](https://www.kaggle.com/c/titanic)
 #### Data derectory 
-
+<div>
 The data has been split into two groups:
 	•	training set (train.csv)
 	•	test set (test.csv)
-
-
+</div>
+<div>
 Variable		Definition
 
-survival.     	Survival            0 = No , 1 =yes
-pclass.      	Ticket class.    1 = 1st, 2 = 2nd, 3 = 3rd
-sex.           	Sex
-Age.          	Age in years
-sibsp. 			Number of siblings / spouses aboard the Titanic
-parch        	Number of parents / children aboard the Titanic
+survival.     	Survival            0 = No , 1 =yes 
+pclass.      	Ticket class.    1 = 1st, 2 = 2nd, 3 = 3rd 
+sex.           	Sex 
+Age.          	Age in years 
+sibsp. 			Number of siblings / spouses aboard the Titanic 
+parch        	Number of parents / children aboard the Titanic 
 ticket.       		Ticket number
-fare.          	Passenger fare
-cabin.       		Cabin number
-embarked. 	Port of Embarkation.          C = Cherbourg, Q = Queenstown, S = Southampton
+fare.          	Passenger fare 
+cabin.       		Cabin number 
+embarked. 	Port of Embarkation.          C = Cherbourg, Q = Queenstown, S = Southampton 
 
+<div>
 Detail : [Link](https://www.kaggle.com/c/titanic/data)            
 
 ### Objective 
