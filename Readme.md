@@ -31,3 +31,14 @@ Detail : [Link](https://www.kaggle.com/c/titanic/data)
 ### Objective 
 Predict and analysis of what sorts of people were likely to survive.
 
+### Prediction Acuraccy
+<div>
+
+Decision tree :  0.83
+AdaBoast : 0.83
+RandomForest : 0.83
+
+SVM : 0.74
+MLP : 0.82
+
+</div>
