@@ -8,22 +8,22 @@ Source by: [Link](https://www.kaggle.com/c/titanic)
 #### Data derectory 
 <div>
 The data has been split into two groups:
-	•	training set (train.csv)
-	•	test set (test.csv)
+- 	training set (train.csv)
+- 	test set (test.csv)
 </div>
 <div>
-Variable		Definition
+- Variable		Definition
 
-survival.     	Survival            0 = No , 1 =yes 
-pclass.      	Ticket class.    1 = 1st, 2 = 2nd, 3 = 3rd 
-sex.           	Sex 
-Age.          	Age in years 
-sibsp. 			Number of siblings / spouses aboard the Titanic 
-parch        	Number of parents / children aboard the Titanic 
-ticket.       		Ticket number
-fare.          	Passenger fare 
-cabin.       		Cabin number 
-embarked. 	Port of Embarkation.          C = Cherbourg, Q = Queenstown, S = Southampton 
+- survival.     	Survival            0 = No , 1 =yes 
+- pclass.      	Ticket class.    1 = 1st, 2 = 2nd, 3 = 3rd 
+- sex.           	Sex 
+- Age.          	Age in years 
+- sibsp. 			Number of siblings / spouses aboard the Titanic 
+- parch        	Number of parents / children aboard the Titanic 
+- ticket.       		Ticket number
+- fare.          	Passenger fare 
+- cabin.       		Cabin number 
+- embarked. 	Port of Embarkation.          C = Cherbourg, Q = Queenstown, S = Southampton 
 
 <div>
 Detail : [Link](https://www.kaggle.com/c/titanic/data)            
@@ -34,11 +34,11 @@ Predict and analysis of what sorts of people were likely to survive.
 ### Prediction Acuraccy
 <div>
 
-Decision tree :  0.83
-AdaBoast : 0.83
-RandomForest : 0.83
+- Decision tree :  0.83
+- AdaBoast : 0.83
+- RandomForest : 0.83
 
-SVM : 0.74
-MLP : 0.82
+- SVM : 0.74
+- MLP : 0.82
 
 </div>
