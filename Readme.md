@@ -38,6 +38,8 @@ Predict and analysis of what sorts of people were likely to survive.
 - AdaBoast : 0.83
 - RandomForest : 0.83
 
+-NaiveBayes : 0.84 
+
 - SVM : 0.74
 - MLP : 0.82
 
