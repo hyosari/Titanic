@@ -29,8 +29,8 @@ The data has been split into two groups:
 Detail : [Link](https://www.kaggle.com/c/titanic/data)            
 
 ### Objective 
-Predict and analysis of what sorts of people were likely to survive.
-
+Predict and analysis of what sorts of people were likely to survive. 
+Use Python Machine Learning library(scikit-learn) 
 ### Prediction Acuraccy
 <div>
 
@@ -38,7 +38,7 @@ Predict and analysis of what sorts of people were likely to survive.
 - AdaBoast : 0.83
 - RandomForest : 0.83
 
--NaiveBayes : 0.84 
+- NaiveBayes : 0.84 
 
 - SVM : 0.74
 - MLP : 0.82
